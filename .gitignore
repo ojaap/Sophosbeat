@@ -1,0 +1,9 @@
+*.pyc
+*.zip
+*~
+/.idea/
+/log/*
+/state/*
+*.iml
+new_py*/
+orig_py*/
